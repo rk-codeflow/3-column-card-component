@@ -29,7 +29,7 @@ While building, I faced one main challenge i.e.  Providing separate style for se
 ### Links
 
 - Solution URL: (https://github.com/rk-codeflow/3-column-card-component)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://3-column-react-card-component.netlify.app/)
 
 ### Built with
 
