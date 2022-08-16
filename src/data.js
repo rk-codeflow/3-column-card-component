@@ -2,7 +2,7 @@ export default [
     {
         id: '1',
         imgUrl: 'https://raw.githubusercontent.com/rk-codeflow/3-column-card-component/4715ce1bab5e0a00f6392c0a17b0ac2ff10eaebd/images/icon-sedans.svg',
-        title: 'sedans',
+        title: 'sedans tttttttt',
         description: 'Choose a sedan for its affordability and excellent  fuel economy. Ideal for  cruising in the city or on your next road trip.'
     },
 
